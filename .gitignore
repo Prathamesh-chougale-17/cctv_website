@@ -1,2 +1,8 @@
+# VS Code Waste
 .vscode
-node_modules
+
+# Dependencies
+*node_modules
+
+# OS Waste
+*.DS_Store
