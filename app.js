@@ -39,5 +39,5 @@ app.get("/why", (req, res) => {
 // });
 app.listen(port, () => {
   console.log(`this application started successfully on port ${port}`);
-  console.log(${port));
+  console.log(${ port }));
 });
